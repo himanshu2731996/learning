@@ -1,0 +1,13 @@
+a.) What is distributed version control system?
+    distributed version control systems use a host to host  to version control,
+    as opposed to the server client approach of centralized systems. 
+    Distributed revision control synchronizes repositories by transferring patches from peer to peer.    
+b.) How to create a release tag for your repository?
+    git origin tag Tag_name
+c.) How can you find all commits done in your repository?
+   git log command or there is a option on git hub "commits" by clicking it you can get your commit. 
+d.) What is difference between git pull and git clone?
+     git pull is used to pull the repository to your local system.
+     git clone is used for cloning your master repo and when you create the branches you can modify the file and later merge it.
+e.) How to merge a branch in master?
+     git merge Branch_name
